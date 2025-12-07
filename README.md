@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jest to strona, która pobiera dane z publicznego API i analizuje je, prezentując w przystępny sposób. Strona jest podzielona na dwie podstrony.
 
 Pierwsza podstrona pokazuje statystyki danych, gdzie możemy zobaczyć takie metryki jak:
@@ -27,3 +28,6 @@ Wykorzystałam AI do:
 • rozwiązywania problemów i wyjaśniania błędów, które pojawiały się podczas pisania kodu,
 • uczynienia mojego kodu bardziej przejrzystym i czytelnym,
 • skrócenia niektórych fragmentów kodu.
+=======
+# Analytic-page
+>>>>>>> dfc9b80f60a1bfe5da4b15e5c33d2b280f03c9f5
