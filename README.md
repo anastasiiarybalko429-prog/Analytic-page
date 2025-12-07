@@ -20,14 +20,14 @@ Na podstawie tego rankingu dostępny jest również wykres słupkowy dla wszystk
 ![tops](tops.png)
 
 Wykorzystałam AI do:
-• wyboru odpowiedniego języka programowania i narzędzi potrzebnych do mojego projektu,
-• rozplanowania projektu krok po kroku, dzięki czemu wiedziałam, co robić na kolejnych etapach,
-• edukacji i nauki nowych bibliotek, na przykład Chart.js,
-• generowania przykładowych fragmentów kodu w bibliotece Chart.js, które potem dostosowywałam do swoich potrzeb,
-• pisania poszczególnych części kodu, np. do przypisania odpowiednich miejsc użytkownikom w rankingu czy tworzenia checkboxów dla wykresu słupkowego,
-• rozwiązywania problemów i wyjaśniania błędów, które pojawiały się podczas pisania kodu,
-• uczynienia mojego kodu bardziej przejrzystym i czytelnym,
-• skrócenia niektórych fragmentów kodu.
+- wyboru odpowiedniego języka programowania i narzędzi potrzebnych do mojego projektu,
+- rozplanowania projektu krok po kroku,
+- edukacji i nauki nowych bibliotek, na przykład Chart.js,
+- generowania przykładowych fragmentów kodu w bibliotece Chart.js, które potem dostosowywałam do swoich potrzeb,
+- pisania poszczególnych części kodu, np. do przypisania odpowiednich miejsc użytkownikom w rankingu czy tworzenia checkboxów dla wykresu słupkowego,
+- rozwiązywania problemów i wyjaśniania błędów, które pojawiały się podczas pisania kodu,
+- uczynienia mojego kodu bardziej przejrzystym i czytelnym,
+- skrócenia niektórych fragmentów kodu.
 =======
 # Analytic-page
 >>>>>>> dfc9b80f60a1bfe5da4b15e5c33d2b280f03c9f5
